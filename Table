@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tables</title>
+</head>
+<body>
+    <table style="width: 100%" border="1" cellpadding="15">
+        <caption><b><em> Concumer List </em></b></caption>
+        <thead>
+            <tr> <td> <b>Isim </b> </td> <td> <b> Soyisim </b> </td> </tr>
+        </thead>
+        <tbody>
+            <tr> <td> Mehriban </td> <td> Shukrieva </td> </tr>
+            <tr> <td> Derya </td> <td> Telli </td> </tr>
+            <tr> <td> Zilan </td> <td> Temel </td> </tr>
+        </tbody>
+        <tfoot> <tr> <td colspan="2"> Overall: 3 consumers </td></tr></tfoot>
+    </table>
+</body>
+</html>
